@@ -2,8 +2,8 @@ Please use this repository to maintain your work for the team project.
 
 Also please fill the following details:
 
-- Team name:
-- Students (SCS username - Name):
+- Team name: Ironical
+- Students (SCS username - Name): ccie2092 - Codorean Carina + vaie2242 - Vasies Louisa
 
 Project idea:
 
